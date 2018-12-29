@@ -55,6 +55,8 @@ namespace Topicos_especiais_parte_1
             Console.WriteLine("(1) Date: " + d.Date);
             Console.WriteLine("(2) Day: " + d.Day);
             Console.WriteLine(d.ToLongDateString());
+            d = DateTime.Now;
+            Console.WriteLine("Hello World!");
         }
 
 
