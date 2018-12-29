@@ -57,6 +57,7 @@ namespace Topicos_especiais_parte_1
             Console.WriteLine(d.ToLongDateString());
             d = DateTime.Now;
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Bom dia");
         }
 
 
